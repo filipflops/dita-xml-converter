@@ -1,1 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
 
+uploads/
+dita_out/
+bny_dita_package.zip
+
+.DS_Store
+.vscode/
+.idea/
+*.log
